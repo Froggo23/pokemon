@@ -2,7 +2,7 @@ package pokemon;
 
 public class Fight {
     public static void main(String[] args) {
-        Pokemon home = new Kirlia();
+        Pokemon home = new Ralts();
         Pokemon away = new Ralts();
 
         home.attack3(away);
