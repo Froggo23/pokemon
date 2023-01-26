@@ -1,6 +1,7 @@
 package pokemon;
 
 public abstract class Pokemon {
+    int love;
     int hp;
     abstract void cry();
 
